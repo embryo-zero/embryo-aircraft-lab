@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Aircraft Lab
+
+**Embryo Aircraft Lab** is Embryo-Zero's fork of [RCAIDE](https://github.com/leadsgroup/RCAIDE_LEADS), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/leadsgroup/RCAIDE_Website/main/assets/img/RCAIDE_Logo_No_Background.png" width=25% height=25%>
 </p>
